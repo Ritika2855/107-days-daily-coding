@@ -4,6 +4,9 @@ int main (){
     int age=25;
     char ch;
     char grade='A';
+    double uu=109.666;
+    int oo= (int)uu;
+    cout << oo << "\n";
     char bb='a';
     int yy=bb;
     cout << yy <<"\n";
